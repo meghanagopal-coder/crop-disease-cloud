@@ -1,0 +1,8 @@
+This folder will store:
+
+1. Trained ML model for crop disease prediction
+2. Label files (disease names)
+3. Preprocessing scripts
+4. Sample dataset links
+
+The real model will be added after training.
